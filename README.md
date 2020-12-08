@@ -50,16 +50,20 @@ Here are some ideas to get you started:
 ```pascal
 type
 
-TDeveloper = class
+IDeveloper = interface(IInterface)
+  ['{3AFEBD74-64D0-4B29-9002-211ABF4C60CF}']
+end;
+
+TDeveloper = class(IDeveloper)
 private
 public
   constructor Create(const AName: string);
-  destructor Destroy; overload;
+  destructor Destroy; override;
 protected
 end;
 
 var
-  singletonDev: TDeveloper;
+  singletonDev: IDeveloper;
   
 begin
   if not assigned(singletonDev) then
