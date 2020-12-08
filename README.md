@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-readme-stats.vercel.app/api?username=JTheiller&show_icons=true&count_private=true&include_all_commits=true&title_color=8AFF80&text_color=F8F8F2&icon_color=1E90FE&bg_color=22212C)
+<a href="https://github.com/JTheiller">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTheiller" />
+</a>
+<a href="https://github.com/JTheiller">
+  <img src="https://github-readme-stats.vercel.app/api?username=JTheiller&count_private=true&show_icons=true&include_all_commits=true" />
+</a><br>
+<a href="https://github.com/JTheiller">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JTheiller" />
+</a><br>
