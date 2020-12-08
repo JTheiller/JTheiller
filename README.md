@@ -43,3 +43,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/JTheiller"> <img src="https://visitor-badge.laobi.icu/badge?page_id=JTheiller" /></a><br>
 <a href="https://github.com/JTheiller"> <img src="https://img.shields.io/github/repo-size/JTheiller/JTheiller" /></a><br>
 </p>
+<p align="center">
+<a href="https://gitstats.me/JTheiller"> <img src="https://img.shields.io/badge/-JTheiller-black?style=flat&labelColor=black&logo=github&logoColor=white" /></a>
+</p>
