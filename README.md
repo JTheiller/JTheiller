@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/JTheiller/JTheiller/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JTheiller/JTheiller?color=2b9348"></a>
 <a href="https://github.com/JTheiller/JTheiller/blob/master/LICENSE"><img src="https://img.shields.io/github/license/JTheiller/JTheiller?color=2b9348" alt="License Badge"/></a>
 <a href="https://github.com/JTheiller"> <img src="https://visitor-badge.laobi.icu/badge?page_id=JTheiller" /></a><br>
+<a href="https://github.com/JTheiller"> <img src="https://img.shields.io/github/repo-size/JTheiller/JTheiller" /></a><br>
 </p>
