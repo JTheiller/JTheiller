@@ -46,3 +46,23 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://gitstats.me/JTheiller"> <img src="https://img.shields.io/badge/-JTheiller-black?style=flat&labelColor=black&logo=github&logoColor=white" /></a>
 </p>
+
+```pascal
+type
+
+TDeveloper = class
+private
+public
+  constructor Create(const AName: string);
+  destructor Destroy; overload;
+protected
+end;
+
+var
+  singletonDev: TDeveloper;
+  
+begin
+  if not assigned(singletonDev) then
+     singletonDev := TDeveloper.Create("Joathan Theiller");
+end;
+```
