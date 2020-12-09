@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 -->
 <p align="left">
 <a href="https://github.com/JTheiller"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTheiller" /></a>
-<a href="https://github.com/JTheiller"> <img src="https://github-readme-stats.vercel.app/api?username=JTheiller&count_private=true&show_icons=true&include_all_commits=true" /></a>
-</p><br><br><br><br><br>
+<a href="https://github.com/JTheiller"> <img src="https://github-readme-stats.vercel.app/api?username=JTheiller&count_private=true&show_icons=true&include_all_commits=true" /></a>  
+</p>
+<p align="left">
+<code><img height="20" src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Delphi.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Pascal.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/file-icons/icons/master/svg/VSCode.svg"></code>
+</p>
+<br><br><br><br><br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
@@ -48,25 +54,58 @@ Here are some ideas to get you started:
 </p>
 
 ```pascal
+program ProjectForeveAlive;
+
+{$APPTYPE CONSOLE}
+
+uses
+  SysUtils;
+
 type
+  IDeveloper = interface['{4E9E0CB0-49AC-4455-9CFA-D5E2724E9B80}']
+  end;
 
-IDeveloper = interface(IInterface)
-  ['{3AFEBD74-64D0-4B29-9002-211ABF4C60CF}']
-end;
+  IMachine = interface['{9C45ADC2-08C2-4D9E-BEA3-BEE87AF7A718}']
+  end;
 
-TDeveloper = class(IDeveloper)
-private
-public
-  constructor Create(const AName: string);
-  destructor Destroy; override;
-protected
-end;
+  IHumam = interface(IMachine)['{BF7B51A1-2A23-4E9C-8FE4-B4EDB08BFF05}']
+  function IsAlive: Boolean;
+  end;
 
-var
-  singletonDev: IDeveloper;
-  
+  THumam = class(TInterfacedObject, IHumam, IMachine, IDeveloper)
+  private
+    FName: String;
+  public
+    constructor Create(AName: String);
+    procedure Start;
+    function IsAlive: Boolean;
+    property Name: String read FName;
+  end;
+
+{ THuman }
+
+function THumam.IsAlive: Boolean;
+const
+  Forever = True;
 begin
-  if not assigned(singletonDev) then
-     singletonDev := TDeveloper.Create("Joathan Theiller");
+  Result := Forever;
 end;
+
+procedure THumam.Start;
+begin
+  while IsAlive do
+  begin
+    WriteLn( Format('%s: %s: %s',[FormatDateTime('YYYY/MM/DD - HH:MM:SS',Now), Name, 'another new idea...']) );
+  end;
+end;
+
+constructor THumam.Create(AName: String);
+begin
+  inherited Create;
+  FName := AName;
+end;
+
+begin
+  THumam.Create('Joathan Theiller').Start;
+end.
 ```
