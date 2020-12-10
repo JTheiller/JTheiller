@@ -1,6 +1,7 @@
 <!--
 **JTheiller/JTheiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 </p>
 <br><br><br><br><br>
 <p align="center">
+<a href="https://github.com/JTheiller"> <img src="http://chart.apis.google.com/chart?cht=qr&chl=joathan theiller&chs=120x120" /></a> <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -109,3 +111,9 @@ begin
   THumam.Create('Joathan Theiller').Start;
 end.
 ```
+<code><img height="20" src="https://img.shields.io/badge/Project-ConceitoTec--CIEvolution-blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/Project-ConceitoTec--CIMagazine-blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/Project-ConceitoTec--CIDOCe-blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/Project-ConceitoTec--CIFactory-blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/Project-ConceitoTec--CIAgency-blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/Project-ConceitoTec--CISyncDB-blue"></code>
