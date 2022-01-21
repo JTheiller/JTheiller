@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
+<img src="https://raw.githubusercontent.com/JTheiller/JTheiller/main/assets/contribution.png" alt="c" width = "100%" heigth: "auto" max-width = "100%"/> 
 <a href="https://github.com/JTheiller"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTheiller" /></a>
 <a href="https://github.com/JTheiller"> <img src="https://github-readme-stats.vercel.app/api?username=JTheiller&count_private=true&show_icons=true&include_all_commits=true" /></a>  
 </p>
