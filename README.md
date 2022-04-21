@@ -1,6 +1,11 @@
 <!--
 **JTheiller/JTheiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2340c463&width=500&height=30&lines=My%20name%20is%20Joathan%20Theiller;You%20are%20viewing%20my%20github.)](https://git.io/typing-svg)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?usernameJTheiller&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JTheiller&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JTheiller&theme=github)
 
 Here are some ideas to get you started:
 
