@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 [<code><img height="20" src="https://img.shields.io/badge/OpenSource-xml--reader-blue"></code>](https://github.com/viniciussanchez/xml-reader)
 [<code><img height="20" src="https://img.shields.io/badge/OpenSource-horse--logger--provider--console-blue"></code>](https://github.com/HashLoad/horse-logger-provider-console)
 [<code><img height="20" src="https://img.shields.io/badge/OpenSource-horse--logger--provider--logfile-blue"></code>](https://github.com/HashLoad/horse-logger-provider-logfile)
+[<code><img height="20" src="https://img.shields.io/badge/OpenSource-eanpictures-blue"></code>](https://github.com/sacfiscal/eanpictures)
 
 [<code><img height="20" src="https://img.shields.io/badge/ACBr-NFe-blue"></code>](https://www.projetoacbr.com.br/forum)
 [<code><img height="20" src="https://img.shields.io/badge/ACBr-NFSe-blue"></code>](https://www.projetoacbr.com.br/forum)
