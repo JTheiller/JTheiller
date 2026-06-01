@@ -59,3 +59,4 @@ Se você deseja apoiar, faça uma doação.
 
 [<code><img height="20" src="https://img.shields.io/badge/Donate-GithubSponsors-blue"></code>](https://github.com/sponsors/JTheiller)</br>
 [<code><img height="20" src="https://img.shields.io/badge/Donate-LiberaPay-blue"></code>](https://liberapay.com/Joathan.Theiller/donate)</br>
+[<code><img height="20" src="https://img.shields.io/badge/Donate-ko--fi-blue"></code>](https://ko-fi.com/jtheiller)</br>
