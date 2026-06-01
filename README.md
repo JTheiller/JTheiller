@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <a href="https://gitstats.me/JTheiller"> <img src="https://img.shields.io/badge/-JTheiller-black?style=flat&labelColor=black&logo=github&logoColor=white" /></a>
 
 <p align="left">
@@ -27,8 +28,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/file-icons/icons/master/svg/VSCode.svg"></code>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JTheiller&theme=github)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JTheiller&theme=github)<br>
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jtheiller)<br>
 ## Projetos
 
 
